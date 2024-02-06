@@ -1,1 +1,1 @@
-# Nodejs + Express + Typescript 채팅 서버 프로젝트
+# Web 기반 채팅 서비스 프로젝트
